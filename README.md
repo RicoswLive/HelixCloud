@@ -1,2 +1,3 @@
 # HelixCloud
-HelixCloud Bug Reports | Feature Requests
+*HelixCloud Bug Reports | Feature Requests*
+
