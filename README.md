@@ -1,5 +1,5 @@
 # HelixCloud
-*HelixCloud Bug Reports | Feature Requests*
+HelixCloud Bug Reports | Feature Requests
 
 iXHWUxQV9uia6wBwMXYv
 XubxtDM0DnFzAVWUznJA
